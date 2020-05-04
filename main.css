@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/25/03/18/brick-2172682_960_720.jpg);
+    background-repeat: repeat;
+    color:white;
+    font-family: 'Great Vibes', cursive;
+}
+
+.firstLetter{
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+.W{
+    color:red;
+    font-size:5rem;
+}
+
+.navbar.scrolled{
+    background-color: rgb(85, 85, 85,.85);
+    transition: background 500ms;
+}
+
+.scrolledBottom{
+    background-color: rgb(85, 85, 85,.4);
+    transition: background 500ms;
+}
+
+.card-text{
+    font-size: 2rem;
+}
+
+.montra{
+    font-size: 2rem;
+}
+
+.M{
+    font-size: .7em;
+}
+
+.fab{
+    color:rgb(80, 80, 80);
+    text-shadow: -2px 2px black;
+}
+
+.title{
+    line-height: .65em;
+}
